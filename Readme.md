@@ -35,4 +35,4 @@ fastcgi_pass    ip_php-fpm_server:9000;
 Для nginx сервера используйте роль «users» «http».<br>
 Для php-fpm сервера используйте роль «users» «php»<br>
 
-В 6 задании был созданы  <b>inst_users_http.yml и inst_users_php.yml</b> которые используют роли для создания web сервера и php сервера на разных серверах. <br>
+В 6 задании были созданы  <b>inst_users_http.yml и inst_users_php.yml</b> которые используют роли для создания web сервера и php сервера на разных серверах. <br>
